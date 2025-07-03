@@ -1,0 +1,55 @@
+{
+    "python.terminal.executeInFileDir": true,
+    "telemetry.telemetryLevel": "off",
+    "editor.fontSize": 19,
+    "editor.fontFamily": "Source Code Pro",
+    "editor.fontLigatures": false,
+    "editor.fontWeight": "normal",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "editor.tabSize": 5,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.codeActionsOnSave": {"source.organizeImports.ruff": "explicit"},
+    "python.analysis.typeCheckingMode": "off",
+    "editor.quickSuggestionsDelay": 200,
+    "editor.dragAndDrop": false,
+    "editor.minimap.enabled": false,
+    "diffEditor.useInlineViewWhenSpaceIsLimited": false,
+    "debug.console.fontFamily": "Source Code Pro",
+    "editor.fontWeight": "500",
+    "terminal.integrated.fontWeight": "600",
+    "terminal.integrated.fontSize": 16,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Predawn",
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName"
+    },
+    "code-runner.clearPreviousOutput": false,
+    "code-runner.showExecutionMessage": true,
+
+    "zenMode.centerLayout": false,
+    "zenMode.fullScreen": false,
+    "zenMode.hideLineNumbers": false,
+    "python.analysis.diagnosticMode": "openFilesOnly",
+    // "python.analysis.diagnosticsSource": "Pylance"
+    "python.analysis.inlayHints.variableTypes": true,
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "python.analysis.typeCheckingMode": "off",
+    "git.autofetch": true,
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true,
+    "debug.disassemblyView.showSourceCode": false,
+    "workbench.editor.alwaysShowEditorActions": true,
+    "workbench.editor.autoLockGroups": {
+        "workbench.editor.chatSession": false,
+        "workbench.editorinputs.sidebysideEditorInput": true,
+        "default": true,
+        "workbench.editorinputs.searchEditorInput": true
+    },
+
+    
+}
+    
+
+    
