@@ -1,0 +1,42 @@
+--Desktop Apps
+
+Ghostty
+Google chrome web app for QMK
+Libre suite
+Zen Browser
+Proton
+QbitTorrent
+VsCode
+Timeshift
+Vlc
+
+-- CLI and Other tools
+
+zsh
+oh-my-zsh
+power10k theme
+Neovim Kickstarter
+Micro
+yt-dlp
+Python
+uv setup
+git
+ssh keys
+Bitwarden
+Fonts - Jetbrains Mono Nerd Font Terminal
+Brew cask fonts maybe
+PulseAudio pavucontrol
+atuin
+eza +alias
+curl
+wget
+batcat
+alias for xclip
+yazi
+Ventoy
+dust
+btop
+fzf
+maybe Java tools
+Tekken 8 engine ini
+brew install yazi ffmpeg sevenzip jq poppler fd ripgrep fzf zoxide resvg imagemagick font-symbols-only-nerd-font
